@@ -15,3 +15,6 @@
 13. Github это бойцовский клуб.
 14 .продолжение следует .... (todo)
 
+https://www.facebook.com/gitkpi
+
+https://twitter.com/gitkpi
